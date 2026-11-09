@@ -2,7 +2,7 @@
   "name": "tidy-tint",
   "displayName": "Tidy Tint",
   "description": "Color your VS Code window per workspace without reordering your settings.json",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "cbsumastre-es",
   "license": "MIT",
   "repository": {

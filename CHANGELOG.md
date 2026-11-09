@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+
+## 0.1.2
 - New extension icon: three colored bars, one per tinted VS Code bar (activity, title and status), at 256×256.
 - README: Marketplace badges now load from vsmarketplacebadges.dev (the shields.io ones were retired).
 
