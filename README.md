@@ -1,5 +1,11 @@
 # Tidy Tint
 
+[![Version](https://img.shields.io/visual-studio-marketplace/v/cbsumastre-es.tidy-tint)](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/cbsumastre-es.tidy-tint)](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/cbsumastre-es.tidy-tint)](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint&ssr=false#review-details)
+
+![A typical extension rewrites the whole colorCustomizations object, dropping comments and moving keys; Tidy Tint changes only the two values that changed](images/demo.gif)
+
 Color your VS Code Activity Bar, Title Bar and Status Bar per workspace, so you
 can tell your windows apart at a glance, **without reordering your `settings.json`**.
 

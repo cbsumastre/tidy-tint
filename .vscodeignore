@@ -11,3 +11,5 @@ SECURITY.md
 .claude/**
 CLAUDE.md
 CLAUDE.local.md
+scripts/**
+images/demo.gif
