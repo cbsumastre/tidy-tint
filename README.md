@@ -1,8 +1,8 @@
 # Tidy Tint
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/cbsumastre-es.tidy-tint)](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/cbsumastre-es.tidy-tint)](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/cbsumastre-es.tidy-tint)](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint&ssr=false#review-details)
+[![Version](https://vsmarketplacebadges.dev/version/cbsumastre-es.tidy-tint.svg)](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint)
+[![Installs](https://vsmarketplacebadges.dev/installs/cbsumastre-es.tidy-tint.svg)](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint)
+[![Rating](https://vsmarketplacebadges.dev/rating/cbsumastre-es.tidy-tint.svg)](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint&ssr=false#review-details)
 
 ![A typical extension rewrites the whole colorCustomizations object, dropping comments and moving keys; Tidy Tint changes only the two values that changed](images/demo.gif)
 

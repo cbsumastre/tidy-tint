@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- README: Marketplace badges now load from vsmarketplacebadges.dev (the shields.io ones were retired).
 
 ## 0.1.1
 - README: demo GIF comparing a whole-object rewrite with Tidy Tint's minimal diff, and Marketplace badges.
