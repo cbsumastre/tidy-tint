@@ -1,0 +1,22 @@
+# Publishes to the VS Code Marketplace when you push a tag like v0.1.0,
+# without storing any token. Requires a Trusted Publishing policy in the
+# Marketplace pointing to this repository and this file (publish.yml).
+name: Publish extension
+
+on:
+  push:
+    tags: ['v*']
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npx @vscode/vsce publish --oidc
