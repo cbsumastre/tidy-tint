@@ -1,0 +1,146 @@
+{
+  "other": {
+    "lines": [
+      {
+        "op": " ",
+        "text": "{"
+      },
+      {
+        "op": " ",
+        "text": "    \"editor.fontSize\": 14,"
+      },
+      {
+        "op": " ",
+        "text": "    \"workbench.colorCustomizations\": {"
+      },
+      {
+        "op": "-",
+        "text": "        // My own tweaks, grouped on purpose"
+      },
+      {
+        "op": " ",
+        "text": "        \"editor.lineHighlightBackground\": \"#ffffff0d\","
+      },
+      {
+        "op": " ",
+        "text": "        \"editorCursor.foreground\": \"#ffcc00\","
+      },
+      {
+        "op": "-",
+        "text": "        // Workspace tint"
+      },
+      {
+        "op": "-",
+        "text": "        \"statusBar.background\": \"#2f6fd6\","
+      },
+      {
+        "op": "+",
+        "text": "        \"terminal.background\": \"#1b1b1f\","
+      },
+      {
+        "op": "+",
+        "text": "        \"statusBar.background\": \"#2e8b57\","
+      },
+      {
+        "op": " ",
+        "text": "        \"statusBar.foreground\": \"#e7e7e7\","
+      },
+      {
+        "op": "-",
+        "text": "        \"statusBarItem.hoverBackground\": \"#447dda\","
+      },
+      {
+        "op": "-",
+        "text": "        \"terminal.background\": \"#1b1b1f\""
+      },
+      {
+        "op": "+",
+        "text": "        \"statusBarItem.hoverBackground\": \"#439768\""
+      },
+      {
+        "op": " ",
+        "text": "    },"
+      },
+      {
+        "op": " ",
+        "text": "    \"files.trimTrailingWhitespace\": true"
+      },
+      {
+        "op": " ",
+        "text": "}"
+      }
+    ],
+    "removed": 5,
+    "added": 3
+  },
+  "tidy": {
+    "lines": [
+      {
+        "op": " ",
+        "text": "{"
+      },
+      {
+        "op": " ",
+        "text": "    \"editor.fontSize\": 14,"
+      },
+      {
+        "op": " ",
+        "text": "    \"workbench.colorCustomizations\": {"
+      },
+      {
+        "op": " ",
+        "text": "        // My own tweaks, grouped on purpose"
+      },
+      {
+        "op": " ",
+        "text": "        \"editor.lineHighlightBackground\": \"#ffffff0d\","
+      },
+      {
+        "op": " ",
+        "text": "        \"editorCursor.foreground\": \"#ffcc00\","
+      },
+      {
+        "op": " ",
+        "text": "        // Workspace tint"
+      },
+      {
+        "op": "-",
+        "text": "        \"statusBar.background\": \"#2f6fd6\","
+      },
+      {
+        "op": "+",
+        "text": "        \"statusBar.background\": \"#2e8b57\","
+      },
+      {
+        "op": " ",
+        "text": "        \"statusBar.foreground\": \"#e7e7e7\","
+      },
+      {
+        "op": "-",
+        "text": "        \"statusBarItem.hoverBackground\": \"#447dda\","
+      },
+      {
+        "op": "+",
+        "text": "        \"statusBarItem.hoverBackground\": \"#439768\","
+      },
+      {
+        "op": " ",
+        "text": "        \"terminal.background\": \"#1b1b1f\""
+      },
+      {
+        "op": " ",
+        "text": "    },"
+      },
+      {
+        "op": " ",
+        "text": "    \"files.trimTrailingWhitespace\": true"
+      },
+      {
+        "op": " ",
+        "text": "}"
+      }
+    ],
+    "removed": 2,
+    "added": 2
+  }
+}
