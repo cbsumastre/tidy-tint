@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+
+## 0.1.1
 - README: demo GIF comparing a whole-object rewrite with Tidy Tint's minimal diff, and Marketplace badges.
 - Marketplace category is now "Other" only (it was also listed under "Themes").
 
