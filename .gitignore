@@ -1,0 +1,11 @@
+node_modules
+out
+*.vsix
+
+# Local development environment
+.devcontainer/
+.claude/
+.vscode/
+AGENTS.md
+CLAUDE.md
+CLAUDE.local.md
