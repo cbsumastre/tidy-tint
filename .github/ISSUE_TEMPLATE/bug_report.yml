@@ -1,0 +1,51 @@
+name: Bug report
+description: Something isn't working as expected
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to report a bug!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: settings-before
+    attributes:
+      label: settings.json before
+      description: The relevant part of your settings file before running the command (remove anything private).
+      render: jsonc
+  - type: textarea
+    id: settings-after
+    attributes:
+      label: settings.json after
+      render: jsonc
+  - type: input
+    id: extension-version
+    attributes:
+      label: Tidy Tint version
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: vscode-version
+    attributes:
+      label: VS Code version
+      description: Help > About
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options: [Windows, macOS, Linux]
+    validations:
+      required: true
+  - type: dropdown
+    id: workspace
+    attributes:
+      label: Workspace type
+      options: [Single folder, Multi-root (.code-workspace), Remote / WSL / Container]
