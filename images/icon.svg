@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Source of images/icon.png. Regenerate with:
+       magick -background none images/icon.svg -strip -depth 8 images/icon.png -->
+  <rect x="8" y="8" width="240" height="240" rx="44" fill="#1e1e2e"/>
+  <rect x="44" y="60" width="168" height="26" rx="13" fill="#4f7cff"/>
+  <rect x="44" y="115" width="168" height="26" rx="13" fill="#8a5cf0"/>
+  <rect x="44" y="170" width="168" height="26" rx="13" fill="#c2417a"/>
+  <circle cx="186" cy="73" r="7" fill="#1e1e2e"/>
+  <circle cx="186" cy="183" r="7" fill="#1e1e2e"/>
+</svg>
